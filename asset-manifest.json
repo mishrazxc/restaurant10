@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9dc92c57.css",
+    "main.js": "/static/js/main.90a411f2.js",
+    "static/js/787.3adb45fa.chunk.js": "/static/js/787.3adb45fa.chunk.js",
+    "static/media/pepsi.jpeg": "/static/media/pepsi.6efe5ca933f40734c898.jpeg",
+    "static/media/burger.jpeg": "/static/media/burger.a264aebc643407f64b08.jpeg",
+    "static/media/fries.jpeg": "/static/media/fries.f7959aff9a151e6e64aa.jpeg",
+    "static/media/coke.jpeg": "/static/media/coke.100662047528b053f85e.jpeg",
+    "index.html": "/index.html",
+    "main.9dc92c57.css.map": "/static/css/main.9dc92c57.css.map",
+    "main.90a411f2.js.map": "/static/js/main.90a411f2.js.map",
+    "787.3adb45fa.chunk.js.map": "/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dc92c57.css",
+    "static/js/main.90a411f2.js"
+  ]
+}
